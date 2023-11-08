@@ -15,3 +15,6 @@ Report: https://drive.google.com/file/d/1epM5irkM0QImjmESK5GEPe2ek38GG1Bp/view?u
 ## Acknowledgements
 - https://github.com/WongKinYiu/yolov7.git
 - https://github.com/JaidedAI/EasyOCR.git
+- https://github.com/mrzaizai2k/License-Plate-Recognition-YOLOv7-and-CNN
+- https://github.com/thangnch/MiAI_YOLOv7
+- https://github.com/buiquangmanhhp1999/License-Plate-Recognition/
