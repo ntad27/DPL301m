@@ -12,13 +12,13 @@ The notebook we use for training and testing license plate recognition
 </a>
 
 Here are the download links for each model checkpoint:
-- License plate detection: https://drive.google.com/file/d/11d1IKZ-jsK9mx0BSQmxrEqLxAA00C3IO/view?usp=sharing
-- Character recognition: https://drive.google.com/file/d/1vIjq6uSBEdmZGuybjtInZaN5RvMgDQYF/view?usp=sharing
+- License plate detection: [link](https://drive.google.com/file/d/11d1IKZ-jsK9mx0BSQmxrEqLxAA00C3IO/view?usp=sharing)
+- Character recognition: [link](https://drive.google.com/file/d/1vIjq6uSBEdmZGuybjtInZaN5RvMgDQYF/view?usp=sharing)
 
 ## Slides and report
-Please check the following link for slides: https://drive.google.com/file/d/1SbmufDlP7bxAO8QwnlkZSejihFLNWr27/view?usp=sharing
+Please check the following link for slides: [link](https://drive.google.com/file/d/1SbmufDlP7bxAO8QwnlkZSejihFLNWr27/view?usp=sharing)
 
-Please check the following link for the report: https://drive.google.com/file/d/1epM5irkM0QImjmESK5GEPe2ek38GG1Bp/view?usp=sharing
+Please check the following link for the report: [link](https://drive.google.com/file/d/1epM5irkM0QImjmESK5GEPe2ek38GG1Bp/view?usp=sharing)
 
 ## Acknowledgements
 - https://github.com/WongKinYiu/yolov7.git
