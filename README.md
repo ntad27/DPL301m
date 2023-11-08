@@ -6,8 +6,11 @@ To download the dataset we use for training and testing license plate detection,
 To download the dataset we use for training and testing character recognition, please check the following link https://drive.google.com/file/d/1xfxV2G-UNOUMmgqEoHtcto0CJR2257XZ/view?usp=sharing
 
 ## Inference
-Here are the download link for the model checkpoint: https://drive.google.com/file/d/1nc3QkE0uS1mAMx6ZTO2s1LWHi87AzJyN/view?usp=sharing
+Here are the download link for each model checkpoints:
+- License plate detection: 
+- Character recognition: 
 
+## Slides and report
 Google colab link for training and testing the YOLOv7 model: https://colab.research.google.com/drive/11LV2cm41AGwglNA506b-YDZLZQk7_bxu?usp=sharing
 
 Report slides: https://drive.google.com/file/d/1SbmufDlP7bxAO8QwnlkZSejihFLNWr27/view?usp=sharing
