@@ -6,8 +6,13 @@ To download the dataset we use for training and testing license plate detection,
 To download the dataset we use for training and testing character recognition, please check the following link https://drive.google.com/file/d/1xfxV2G-UNOUMmgqEoHtcto0CJR2257XZ/view?usp=sharing
 
 ## Inference
-Here are the download link for each model checkpoints:
-- License plate detection: 
+The notebook we use for training and testing license plate recognition
+<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/11LV2cm41AGwglNA506b-YDZLZQk7_bxu?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Here are the download links for each model checkpoint:
+- License plate detection: https://drive.google.com/file/d/11d1IKZ-jsK9mx0BSQmxrEqLxAA00C3IO/view?usp=sharing
 - Character recognition: 
 
 ## Slides and report
