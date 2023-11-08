@@ -13,4 +13,5 @@ Report slides: https://drive.google.com/file/d/1SbmufDlP7bxAO8QwnlkZSejihFLNWr27
 Report: https://drive.google.com/file/d/1epM5irkM0QImjmESK5GEPe2ek38GG1Bp/view?usp=sharing
 
 ## Acknowledgements
-
+- https://github.com/WongKinYiu/yolov7.git
+- https://github.com/JaidedAI/EasyOCR.git
