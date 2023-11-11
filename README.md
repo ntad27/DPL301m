@@ -18,7 +18,7 @@ Here are the download links for each model checkpoint:
 ## Slides and report
 Please check the following link for slides: [link](https://www.canva.com/design/DAFy5wK4PKg/21lN-3k-LAmgKrflQerXfw/edit?utm_content=DAFy5wK4PKg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Please check the following link for the report: [link](https://drive.google.com/file/d/1epM5irkM0QImjmESK5GEPe2ek38GG1Bp/view?usp=sharing)
+Please check the following link for the report: [link]([https://drive.google.com/file/d/1epM5irkM0QImjmESK5GEPe2ek38GG1Bp/view?usp=sharing](https://drive.google.com/file/d/1epM5irkM0QImjmESK5GEPe2ek38GG1Bp/view?usp=sharing))
 
 ## Acknowledgements
 - https://github.com/WongKinYiu/yolov7.git
