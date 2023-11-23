@@ -26,3 +26,4 @@ Please check the following link for the report: [link](https://drive.google.com/
 - https://github.com/mrzaizai2k/License-Plate-Recognition-YOLOv7-and-CNN
 - https://github.com/thangnch/MiAI_YOLOv7
 - https://github.com/buiquangmanhhp1999/License-Plate-Recognition/
+- Special thanks to my two friends Tran Ngoc Xuan Tin and Duong Vien Thach for helping me complete this project.
