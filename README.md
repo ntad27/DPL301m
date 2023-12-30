@@ -21,7 +21,8 @@ Please check the following link for slides: [link](https://www.canva.com/design/
 Please check the following link for the report: [link](https://drive.google.com/file/d/1epM5irkM0QImjmESK5GEPe2ek38GG1Bp/view?usp=drive_link)
 
 ## Acknowledgements
-- Special thanks to my friends Tran Ngoc Xuan Tin and Duong Vien Thach for helping me complete this project.
+- Tran Ngoc Xuan Tin (tintnxse150422@fpt.edu.vn)
+- Duong Vien Thach (thachdvse150534@fpt.edu.vn)
 - https://github.com/WongKinYiu/yolov7.git
 - https://github.com/JaidedAI/EasyOCR.git
 - https://github.com/mrzaizai2k/License-Plate-Recognition-YOLOv7-and-CNN
