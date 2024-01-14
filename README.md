@@ -7,18 +7,18 @@ To download the dataset we use for training and testing character recognition, p
 
 ## Inference
 The notebook we use for training and testing license plate recognition 
-<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/11LV2cm41AGwglNA506b-YDZLZQk7_bxu?usp=sharing">
+<a target="_blank" href="https://colab.research.google.com/drive/14ZfnQuR8YYYeeBL7vxHkInoG6E9cVyPO?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 Here are the download links for each model checkpoint:
-- License plate detection: [link](https://drive.google.com/file/d/11d1IKZ-jsK9mx0BSQmxrEqLxAA00C3IO/view?usp=sharing)
-- Character recognition: [link](https://drive.google.com/file/d/1vIjq6uSBEdmZGuybjtInZaN5RvMgDQYF/view?usp=sharing)
+- License plate detection: [link](https://drive.google.com/file/d/1ZcqmtoMsAXe1YCRXYCqAXD3vfIBJ5Pye/view?usp=drive_link)
+- Character recognition: [link](https://drive.google.com/file/d/1qVIDpX7FHWOdmI8ADroOEdHw4W_Owyrw/view?usp=sharing)
 
 ## Slides and report
 Please check the following link for slides: [link](https://www.canva.com/design/DAFy5wK4PKg/21lN-3k-LAmgKrflQerXfw/edit?utm_content=DAFy5wK4PKg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Please check the following link for the report: [link](https://drive.google.com/file/d/1epM5irkM0QImjmESK5GEPe2ek38GG1Bp/view?usp=sharing)
+Please check the following link for the report: [link](https://drive.google.com/file/d/1L7uPgJMGC8P0B1F7rGKaIAcycwfhKJvY/view?usp=drive_link)
 
 ## Acknowledgements
 - Tran Ngoc Xuan Tin (tintnxse150422@fpt.edu.vn)
